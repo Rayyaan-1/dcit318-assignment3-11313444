@@ -1,0 +1,5 @@
+101,Kofi Mensah,85
+102,Ama Serwaa,78
+103,Kwame Asante,62
+104,Akua Boateng,49
+105,Yaw Ofori,91

@@ -1,0 +1,15 @@
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.exe
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.deps.json
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.runtimeconfig.json
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\bin\Debug\net8.0\Q1_FinanceManagement.pdb
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.AssemblyInfoInputs.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.AssemblyInfo.cs
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.sourcelink.json
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\refint\Q1_FinanceManagement.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.pdb
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\Q1_FinanceManagement.genruntimeconfig.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\Q1_FinanceManagement\obj\Debug\net8.0\ref\Q1_FinanceManagement.dll

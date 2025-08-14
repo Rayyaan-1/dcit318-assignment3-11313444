@@ -1,0 +1,5 @@
+Kofi Mensah (ID: 101): Score = 85, Grade = A
+Ama Serwaa (ID: 102): Score = 78, Grade = B
+Kwame Asante (ID: 103): Score = 62, Grade = C
+Akua Boateng (ID: 104): Score = 49, Grade = F
+Yaw Ofori (ID: 105): Score = 91, Grade = A

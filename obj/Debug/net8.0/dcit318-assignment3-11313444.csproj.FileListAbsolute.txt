@@ -1,0 +1,15 @@
+C:\Users\Kishki\dcit318-assignment3-11313444\bin\Debug\net8.0\dcit318-assignment3-11313444.exe
+C:\Users\Kishki\dcit318-assignment3-11313444\bin\Debug\net8.0\dcit318-assignment3-11313444.deps.json
+C:\Users\Kishki\dcit318-assignment3-11313444\bin\Debug\net8.0\dcit318-assignment3-11313444.runtimeconfig.json
+C:\Users\Kishki\dcit318-assignment3-11313444\bin\Debug\net8.0\dcit318-assignment3-11313444.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\bin\Debug\net8.0\dcit318-assignment3-11313444.pdb
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\dcit318-assignment3-11313444.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\dcit318-assignment3-11313444.AssemblyInfoInputs.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\dcit318-assignment3-11313444.AssemblyInfo.cs
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\dcit318-assignment3-11313444.csproj.CoreCompileInputs.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\dcit318-assignment3-11313444.sourcelink.json
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\dcit318-assignment3-11313444.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\refint\dcit318-assignment3-11313444.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\dcit318-assignment3-11313444.pdb
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\dcit318-assignment3-11313444.genruntimeconfig.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\obj\Debug\net8.0\ref\dcit318-assignment3-11313444.dll

@@ -1,0 +1,15 @@
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\bin\Debug\net8.0\Q4_GradingSystem.exe
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\bin\Debug\net8.0\Q4_GradingSystem.deps.json
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\bin\Debug\net8.0\Q4_GradingSystem.runtimeconfig.json
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\bin\Debug\net8.0\Q4_GradingSystem.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\bin\Debug\net8.0\Q4_GradingSystem.pdb
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\Q4_GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\Q4_GradingSystem.AssemblyInfoInputs.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\Q4_GradingSystem.AssemblyInfo.cs
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\Q4_GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\Q4_GradingSystem.sourcelink.json
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\Q4_GradingSystem.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\refint\Q4_GradingSystem.dll
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\Q4_GradingSystem.pdb
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\Q4_GradingSystem.genruntimeconfig.cache
+C:\Users\Kishki\dcit318-assignment3-11313444\Q4_GradingSystem\obj\Debug\net8.0\ref\Q4_GradingSystem.dll
