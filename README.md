@@ -98,19 +98,7 @@ This project is a comprehensive collection of C# console applications demonstrat
 
 - **InventoryApp:** Seeds sample items (Laptop, Keyboard, Mouse, Monitor), saves to `inventory.json`, clears memory, loads back, and prints all items with ID, Name, Quantity, and DateAdded.
 
----
 
-## Key Features Across All Systems
-
-- Modular, extensible design using OOP principles: encapsulation, inheritance, polymorphism, abstraction.
-- Generics for reusable repositories and loggers.
-- Records for immutable data where appropriate.
-- Interfaces define contracts for processors and loggable entities.
-- Exception handling ensures invalid operations are caught and reported.
-- File operations for reading, writing, and JSON serialization.
-- Financial transactions are displayed in GHS (Cedis).
-
----
 
 
 
